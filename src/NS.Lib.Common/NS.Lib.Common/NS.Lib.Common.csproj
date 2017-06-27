@@ -4,6 +4,15 @@
     <TargetFramework>netstandard1.4</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.2</Version>
+    <PackageLicenseUrl>https://github.com/rodrigobaia/ns.lib.common</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/rodrigobaia/ns.lib.common</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rodrigobaia/ns.lib.common</RepositoryUrl>
+    <AssemblyVersion>1.0.0.2</AssemblyVersion>
+    <FileVersion>1.0.0.2</FileVersion>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
+    <PackageReleaseNotes>Projeto</PackageReleaseNotes>
+    <PackageTags>Common Utilities Util</PackageTags>
+    <Copyright>Copyright 2017 Rodrigo Baía Consulting</Copyright>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
